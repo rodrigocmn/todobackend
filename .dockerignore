@@ -1,2 +1,5 @@
 # ingnore the virtual environment folder
 venv
+
+# ignore the reports folder
+reports
